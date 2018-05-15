@@ -1,1 +1,3 @@
-# data
+# Wizard generator
+
+python wizards.py
