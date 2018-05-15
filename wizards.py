@@ -15,4 +15,4 @@ wizard_property = []
 for propfile in files:
   wizard_property.append(random_wiz_property(open(propfile)).strip())
 
-print wizard_property[0] + " " + wizard_property[1] + " from " + wizard_property[2]
+print( wizard_property[0] + " " + wizard_property[1] + " from " + wizard_property[2])
